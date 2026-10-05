@@ -1,0 +1,21 @@
+flight_id,airline,from_city,from_country,to_city,to_country,dep_date,duration_min,price_eur,note
+ fl-3253 ,Lumen Air ,OSLO,Norway,Prague,Czechia,21.07.2026,303,76.00,
+FL-4217,AeroVista,Odesa,Ukraine,Oslo,Norway,2026-05-27,256,253.50,delay=15;by=FlightLog
+FL-5980,Zephyr Lines,Munich,Germany,Riga,Latvia,26.09.2026,225,185.99,delay=15;by=AirWatch
+FL-4125,TransCarpa,Berlin,Germany,Lviv,Ukraine,2026-05-08,222,137.50,
+ fl-4344 ,Zephyr Lines ,BERLIN,Germany,Vilnius,Lithuania,2026-08-23,224,153.00,
+FL-4344,Zephyr Lines,Berlin,Germany,Vilnius,Lithuania,2026-08-23,224,153.00,
+FL-3253,Lumen Air,Oslo,Norway,Prague,Czechia,21.07.2026,303,76.00,
+FL-8593,AeroVista,Vienna,Austria,Riga,Latvia,19.03.2026,70,237.50,
+FL-2289,Zephyr Lines,Oslo,Norway,Milan,Italy,2026-09-14,134,129.00,
+FL-2204,Zephyr Lines,Tallinn,Estonia,Kyiv,Ukraine,2026-08-26,209,,
+FL-5348,AeroVista,Berlin,Germany,Lisbon,Portugal,17.05.2026,155,93.99,
+FL-6543,Lumen Air,Kyiv,Ukraine,Rome,Italy,21.05.2026,186,182.99,
+FL-2298,Falcon Jet,Paris,France,Milan,Italy,10.05.2026,305,,
+FL-1942,Orbit Airways,Budapest,Hungary,Munich,Germany,2026-05-23,260,,
+FL-4808,Orbit Airways,Oslo,Norway,Budapest,Hungary,09.09.2026,275,119.99,
+FL-2028,Zephyr Lines,Budapest,Hungary,Kyiv,Ukraine,2026-04-03,96,75.50,
+FL-1830,TransCarpa,Paris,France,Lyon,France,07.07.2026,170,236.50,
+FL-8546,Orbit Airways,Lviv,Ukraine,Berlin,Germany,2026-09-12,281,98.50,delay=90;by=FlightLog
+FL-3477,Falcon Jet,Budapest,Hungary,Tallinn,Estonia,14.07.2026,110,248.50,
+FL-1615,SkyNord,Riga,Latvia,Odesa,Ukraine,2026-04-15,185,53.00,
